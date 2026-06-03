@@ -1,0 +1,23 @@
+/* src/assets/styles.css */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700;900&display=swap');
+
+body {
+  font-family: 'Poppins', sans-serif;
+  background-color: white;
+  color: #000;
+  margin: 0;
+  padding: 0;
+}
+
+button, input, textarea, select {
+  border-radius: 8px;
+  font-family: 'Poppins', sans-serif;
+}
+
+:root {
+  --blue1: #061A40;
+  --blue2: #0353A4;
+  --yellow: #F7DD72;
+  --success: #B1C900;
+  --error: #802A2A;
+}
